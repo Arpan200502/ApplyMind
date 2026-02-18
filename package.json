@@ -1,0 +1,12 @@
+{
+  "name": "applyminds",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "node": "^25.6.1",
+    "openai": "^6.22.0"
+
+  }
+
+}
